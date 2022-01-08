@@ -1,2 +1,2 @@
-# JJTech-Tower
-for ansible tower
+# JJTech-Bliss-Ansible-Tower
+jespombwoge@gmail.com
